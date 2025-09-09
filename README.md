@@ -36,5 +36,5 @@
 
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?color=8B0000&size=22&center=true&vCenter=true&speed=150&lines=Bom+é+isso;&lines=nos+despedimos+Aqui+♥" />
+ <img src="https://readme-typing-svg.herokuapp.com/?color=8B0000&size=22&center=true&vCenter=true&speed=150&lines=Bom+é+isso&lines=nos+despedimos+Aqui+♥" />
 </p>
