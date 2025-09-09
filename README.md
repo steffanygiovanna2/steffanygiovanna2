@@ -22,7 +22,7 @@
   ## **Rede Social**
 
   <div align="left">
-    <h1>instagram</h1>
+    <h3>instagram</h3>
     <a href="https://www.instagram.com/im_teffyxhw">
   <img src="https://i.pinimg.com/1200x/09/21/c0/0921c00f5e3f75e1b6f05b71d984184c.jpg" width="40" />
 
