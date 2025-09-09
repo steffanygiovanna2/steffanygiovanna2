@@ -25,8 +25,5 @@
     <h7>instagram</h7>
     <a href="https://www.instagram.com/im_teffyxhw">
   <img src="https://i.pinimg.com/1200x/09/21/c0/0921c00f5e3f75e1b6f05b71d984184c.jpg" width="40" /> 
-  <br>
-  <h7>Email:</h7>
-    <a href="Steffanygiovannasouza@gmail.com">
-  <img src="https://i.pinimg.com/736x/cd/e9/39/cde9397ef4cd7f29f36de34703a54ce0.jpg" width="40" />
+
 
