@@ -16,4 +16,5 @@
 
  ## **🏅Formação:**
 
-- Ensino médio em andamento: 
+- Ensino médio em andamento: E.E Julia Calahu Rodrigues Professora (2025)
+
