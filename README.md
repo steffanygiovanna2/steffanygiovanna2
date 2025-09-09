@@ -25,5 +25,17 @@
     <h7>instagram</h7>
     <a href="https://www.instagram.com/im_teffyxhw">
   <img src="https://i.pinimg.com/1200x/09/21/c0/0921c00f5e3f75e1b6f05b71d984184c.jpg" width="40" /> 
-
+<table>
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/im_teffyxhw">
+      <img src="https://i.pinimg.com/1200x/09/21/c0/0921c00f5e3f75e1b6f05b71d984184c.jpg" width="40" style="border-radius"
+    </td>
+      <td>
+        <p>
+         ☼ Instagram ☼
+        </p>
+      </td>
+  </tr>
+</table>
 
