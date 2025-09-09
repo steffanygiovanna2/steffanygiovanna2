@@ -7,7 +7,7 @@
     </td>
       <td>
         <p>
-          Me chamo Steffany Giovanna, tenho 18 anos e atualmente sou aluna no senai nos cursos ```desenvolvimentos de sistemas```, ```pacote office``` e ```python```.<br>
+          Me chamo Steffany Giovanna, tenho 18 anos e atualmente sou aluna no senai nos cursos _desenvolvimentos de sistemas_, pacote office e python.<br>
           Estou finalizando o ensino médio, futuramente planejo fazer curso de elétrica nesta mesma instituição.
         </p>
       </td>
