@@ -19,12 +19,7 @@
 - Ensino médio em andamento: E.E Julia Calahu Rodrigues Professora (2025).
 - Curso técnico em andamento: Desenvolvimento de sistemas (SENAI Jaguariúna, 2025).
 
-  ## **Meio de comunicação:**
-
-  <div align="left">
-    <h7>instagram</h7>
-    <a href="https://www.instagram.com/im_teffyxhw">
-  <img src="https://i.pinimg.com/1200x/09/21/c0/0921c00f5e3f75e1b6f05b71d984184c.jpg" width="40" /> 
+  ## Segue lá
 <table>
   <tr>
     <td>
@@ -39,3 +34,7 @@
   </tr>
 </table>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&lines=Bom+é+isso+nos+despedimos+aqui+☻" />
+</p>
